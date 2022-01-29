@@ -2,7 +2,7 @@
 
 A Web Developer who believes an ounce of prevention is worth a pound of cure
 
-I’m currently learning **.Net** and **React**
+I'm currently working with **.Net** and **React**
 
 <br>
 
