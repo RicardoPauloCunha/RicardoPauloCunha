@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ricardo Paulo
+# Hi 👋, I'm Ricardo
 
 A Web Developer who believes an ounce of prevention is worth a pound of cure
 
